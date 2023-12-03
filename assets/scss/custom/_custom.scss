@@ -1,0 +1,32 @@
+ .viva-la-vida {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Cinzel Decorative', serif !important;
+    background-image: linear-gradient(90deg, #f37055 0, #ef4e7b 40%, #f37055 45%, #a166ab 50%, #f37055 55%, #ef4e7b 60%, #f37055 100%);
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+
+ .colorfulfont_b2g {
+   background: linear-gradient(to right, #3A8891, #0E5E6F);
+   -webkit-background-clip: text;
+   background-clip: text;
+   color: transparent;
+ }
+
+ .mycard {
+   padding: 10px 20px;
+   margin: 20px 0;
+   border-radius: 4px;
+   word-break: break-all;
+   background: transparent;
+   box-shadow: 0 6px 10px 0 alpha(var(--color-contrast-high), 0.15);
+   .content {
+     line-height: 30px;
+   }
+ }
+ 
+
+ @import 'shortcodes';
+ 
