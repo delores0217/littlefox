@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://delores0217.github.io/"
-title = "多洛の城堡"
+baseURL = "https://delores0217.github.io/littlefox/"
+title = "食人系狐狸"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 publishDir = "docs"

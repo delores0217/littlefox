@@ -7,8 +7,8 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>多洛の城堡</title>
-        <link>https://delores0217.github.io/</link>
+        <title>食人系狐狸</title>
+        <link>https://delores0217.github.io/littlefox/</link>
         <description>一个渴望治愈世界的病人。</description>
         <generator>Hugo 0.105.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 12 Aug 2023 20:28:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 23:03:31 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://delores0217.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://delores0217.github.io/littlefox/rss.xml" />
         
         
             <item>
                 <title>十又三岁</title>
-                <link>https://delores0217.github.io/posts/capture/poem/thirteen/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/poem/thirteen/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/poem/thirteen/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/poem/thirteen/</guid>
                 <pubDate>Fri, 17 Feb 2023 21:12:26 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -51,7 +51,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E8%AF%97/">诗</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E8%AF%97/">诗</category>
                                 
                             
                         
@@ -61,8 +61,8 @@
         
             <item>
                 <title>器官</title>
-                <link>https://delores0217.github.io/posts/capture/poem/organs/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/poem/organs/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/poem/organs/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/poem/organs/</guid>
                 <pubDate>Tue, 08 Nov 2022 23:25:41 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -82,13 +82,13 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E8%AF%97/">诗</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E8%AF%97/">诗</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%84%A4%E6%80%92/">愤怒</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%84%A4%E6%80%92/">愤怒</category>
                                 
                             
                         
@@ -98,8 +98,8 @@
         
             <item>
                 <title>请问，我有资格当一个人吗？</title>
-                <link>https://delores0217.github.io/posts/capture/essay/be_a_person/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/be_a_person/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/be_a_person/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/be_a_person/</guid>
                 <pubDate>Sun, 30 Oct 2022 11:22:12 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -117,7 +117,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/categories/%E5%8F%8D%E6%80%9D/">反思</category>
+                                    <category domain="https://delores0217.github.io/littlefox/categories/%E5%8F%8D%E6%80%9D/">反思</category>
                                 
                             
                         
@@ -129,8 +129,8 @@
         
             <item>
                 <title>一些闲谈: 噩梦, 哭泣与轻盈的生活</title>
-                <link>https://delores0217.github.io/posts/daily/221007_emeng/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/daily/221007_emeng/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/daily/221007_emeng/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/daily/221007_emeng/</guid>
                 <pubDate>Fri, 07 Oct 2022 22:10:12 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -150,7 +150,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%81%90%E6%83%A7/">恐惧</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%81%90%E6%83%A7/">恐惧</category>
                                 
                             
                         
@@ -160,8 +160,8 @@
         
             <item>
                 <title>木了</title>
-                <link>https://delores0217.github.io/posts/daily/220822_muliao/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/daily/220822_muliao/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/daily/220822_muliao/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/daily/220822_muliao/</guid>
                 <pubDate>Mon, 22 Aug 2022 18:45:27 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -183,8 +183,8 @@
         
             <item>
                 <title>from.未晏: 小狐狸的木玫瑰</title>
-                <link>https://delores0217.github.io/posts/daily/220815/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/daily/220815/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/daily/220815/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/daily/220815/</guid>
                 <pubDate>Mon, 15 Aug 2022 12:54:15 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -206,8 +206,8 @@
         
             <item>
                 <title>火光落在树叶旁</title>
-                <link>https://delores0217.github.io/posts/capture/essay/fireandtree/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/fireandtree/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/fireandtree/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/fireandtree/</guid>
                 <pubDate>Wed, 10 Nov 2021 18:51:46 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -229,8 +229,8 @@
         
             <item>
                 <title>痛</title>
-                <link>https://delores0217.github.io/posts/capture/poem/thepain/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/poem/thepain/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/poem/thepain/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/poem/thepain/</guid>
                 <pubDate>Thu, 23 Sep 2021 18:31:23 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -250,7 +250,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E8%AF%97/">诗</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E8%AF%97/">诗</category>
                                 
                             
                         
@@ -260,8 +260,8 @@
         
             <item>
                 <title>只有这一点夏天</title>
-                <link>https://delores0217.github.io/posts/capture/essay/thesummer/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/thesummer/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/thesummer/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/thesummer/</guid>
                 <pubDate>Mon, 12 Jul 2021 18:38:15 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -283,8 +283,8 @@
         
             <item>
                 <title>及妍秋之未晏</title>
-                <link>https://delores0217.github.io/posts/capture/essay/toyyq/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/toyyq/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/toyyq/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/toyyq/</guid>
                 <pubDate>Fri, 23 Oct 2020 18:46:33 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -304,7 +304,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E4%BA%BA/">人</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E4%BA%BA/">人</category>
                                 
                             
                         
@@ -314,8 +314,8 @@
         
             <item>
                 <title>绝对服从</title>
-                <link>https://delores0217.github.io/posts/capture/essay/obey/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/obey/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/obey/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/obey/</guid>
                 <pubDate>Sun, 23 Aug 2020 00:22:32 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -337,8 +337,8 @@
         
             <item>
                 <title>在逗号之后</title>
-                <link>https://delores0217.github.io/posts/capture/essay/thecomma/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/thecomma/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/thecomma/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/thecomma/</guid>
                 <pubDate>Sat, 18 Jul 2020 19:22:10 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -360,8 +360,8 @@
         
             <item>
                 <title>盖尼米德狂想曲</title>
-                <link>https://delores0217.github.io/posts/capture/essay/rhapsody/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/rhapsody/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/rhapsody/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/rhapsody/</guid>
                 <pubDate>Wed, 01 Apr 2020 18:56:32 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -381,7 +381,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E7%88%B1/">爱</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E7%88%B1/">爱</category>
                                 
                             
                         
@@ -391,8 +391,8 @@
         
             <item>
                 <title>绿地</title>
-                <link>https://delores0217.github.io/posts/capture/essay/thegreenland/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/thegreenland/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/thegreenland/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/thegreenland/</guid>
                 <pubDate>Sun, 22 Mar 2020 19:40:54 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -414,8 +414,8 @@
         
             <item>
                 <title>雨</title>
-                <link>https://delores0217.github.io/posts/capture/essay/therain/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/therain/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/therain/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/therain/</guid>
                 <pubDate>Thu, 19 Dec 2019 09:14:57 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -435,7 +435,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E5%A4%A9%E6%B0%94/">天气</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E5%A4%A9%E6%B0%94/">天气</category>
                                 
                             
                         
@@ -445,8 +445,8 @@
         
             <item>
                 <title>白黑</title>
-                <link>https://delores0217.github.io/posts/capture/essay/blackandwhite/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/blackandwhite/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/blackandwhite/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/blackandwhite/</guid>
                 <pubDate>Mon, 11 Nov 2019 11:21:47 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -466,7 +466,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%83%85%E6%AC%B2/">情欲</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%83%85%E6%AC%B2/">情欲</category>
                                 
                             
                         
@@ -476,8 +476,8 @@
         
             <item>
                 <title>from. 似水年华</title>
-                <link>https://delores0217.github.io/posts/inspiration/thelostyears/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/inspiration/thelostyears/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/inspiration/thelostyears/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/inspiration/thelostyears/</guid>
                 <pubDate>Sat, 12 Oct 2019 01:34:36 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -497,7 +497,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%91%98%E5%BD%95/">摘录</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%91%98%E5%BD%95/">摘录</category>
                                 
                             
                         
@@ -507,8 +507,8 @@
         
             <item>
                 <title>关于减负的一些思考</title>
-                <link>https://delores0217.github.io/posts/capture/essay/theburden/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/theburden/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/theburden/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/theburden/</guid>
                 <pubDate>Sun, 03 Feb 2019 00:25:46 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -528,13 +528,13 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%84%A4%E6%80%92/">愤怒</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%84%A4%E6%80%92/">愤怒</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E5%8F%8D%E6%80%9D/">反思</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E5%8F%8D%E6%80%9D/">反思</category>
                                 
                             
                         
@@ -544,8 +544,8 @@
         
             <item>
                 <title>盒子</title>
-                <link>https://delores0217.github.io/posts/capture/essay/box/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/box/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/box/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/box/</guid>
                 <pubDate>Sat, 08 Dec 2018 19:52:16 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -565,7 +565,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E5%AF%93%E8%A8%80/">寓言</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E5%AF%93%E8%A8%80/">寓言</category>
                                 
                             
                         
@@ -575,8 +575,8 @@
         
             <item>
                 <title>蜡烛</title>
-                <link>https://delores0217.github.io/posts/capture/poem/thecandle/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/poem/thecandle/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/poem/thecandle/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/poem/thecandle/</guid>
                 <pubDate>Wed, 25 Jul 2018 02:22:47 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -596,7 +596,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E8%AF%97/">诗</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E8%AF%97/">诗</category>
                                 
                             
                         
@@ -606,8 +606,8 @@
         
             <item>
                 <title>情人</title>
-                <link>https://delores0217.github.io/posts/capture/essay/thelover/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/thelover/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/thelover/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/thelover/</guid>
                 <pubDate>Wed, 14 Feb 2018 22:10:12 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -627,13 +627,13 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E7%88%B1/">爱</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E7%88%B1/">爱</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E6%83%85%E6%AC%B2/">情欲</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E6%83%85%E6%AC%B2/">情欲</category>
                                 
                             
                         
@@ -643,8 +643,8 @@
         
             <item>
                 <title>这一次，不离红海</title>
-                <link>https://delores0217.github.io/posts/capture/essay/tohcy/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/capture/essay/tohcy/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/capture/essay/tohcy/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/capture/essay/tohcy/</guid>
                 <pubDate>Wed, 07 Feb 2018 19:56:10 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -664,7 +664,7 @@
                                 
                                 
                                 
-                                    <category domain="https://delores0217.github.io/tags/%E4%BA%BA/">人</category>
+                                    <category domain="https://delores0217.github.io/littlefox/tags/%E4%BA%BA/">人</category>
                                 
                             
                         
@@ -674,8 +674,8 @@
         
             <item>
                 <title>一八一朵花</title>
-                <link>https://delores0217.github.io/posts/daily/2018qqzone/2018/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/daily/2018qqzone/2018/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/daily/2018qqzone/2018/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/daily/2018qqzone/2018/</guid>
                 <pubDate>Sat, 27 Jan 2018 18:23:21 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
@@ -697,8 +697,8 @@
         
             <item>
                 <title>古早印迹</title>
-                <link>https://delores0217.github.io/posts/daily/bf2018/</link>
-                <guid isPermaLink="true">https://delores0217.github.io/posts/daily/bf2018/</guid>
+                <link>https://delores0217.github.io/littlefox/posts/daily/bf2018/</link>
+                <guid isPermaLink="true">https://delores0217.github.io/littlefox/posts/daily/bf2018/</guid>
                 <pubDate>Sat, 29 Dec 2012 19:53:20 &#43;0800</pubDate>
                 
                     <author>delores0217@126.com (Delores0217)</author>
