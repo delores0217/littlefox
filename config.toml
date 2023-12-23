@@ -1124,7 +1124,7 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 仓库地址
-    repoURL = ""
+    repoURL = "/littlefox"
     # 编辑地址
     repoEditURL = ""
 
